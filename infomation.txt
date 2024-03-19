@@ -1,5 +1,5 @@
-Information about the project.
+Information about the project and author.
 From Git and Github Class
 
 Author: Alejandro Gonzalez
-Age: 23 yo
+Age: 23 years old
