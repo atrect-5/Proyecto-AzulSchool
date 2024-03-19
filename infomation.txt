@@ -1,5 +1,5 @@
 Information about the project and author.
-From Git and Github Class
+From Git and Github Class in Azul Web
 
 Author: Alejandro Gonzalez
 Age: 23 years old
