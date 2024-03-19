@@ -1,0 +1,4 @@
+Information about the project.
+To Git and Github Class
+
+Author: Alejandro Gonzalez
