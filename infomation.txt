@@ -1,4 +1,4 @@
 Information about the project.
-To Git and Github Class
+From Git and Github Class
 
 Author: Alejandro Gonzalez
