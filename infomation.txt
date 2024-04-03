@@ -1,6 +1,7 @@
 Information about the project and author.
-From Git and Github Class in Azul Web
+From Git and Github Class in Azul School
 
+This proyect was made to learn how Git and GitHub works. To know how to use it.
 
 Image of meudsas: https://cdn.pixabay.com/photo/2017/08/01/17/27/jellyfish-2566795_1280.jpg
 
