@@ -17,6 +17,10 @@ Este proyecto es para aprender a utilizar las herramientas de Git y GitHub, hech
 * Ramas en git
 * Fusion de ramas
 * GitHub y sus funciones
+* Git stash
+* Git amend
+* Git rebase
+* Git Clean
 
 ### Este proyecto contiene los archivos
 1. index.html
