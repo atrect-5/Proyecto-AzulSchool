@@ -1,0 +1,8 @@
+This txt File is just to Try how rebase work.
+The branches that was used:
+
+    Features:                                   Master:
+1- Updating information to readme
+2- CommitB for rebase
+3-                                              CommitC from master to rebase
+4- CommitD From features to rebase
