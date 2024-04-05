@@ -21,8 +21,12 @@ Este proyecto es para aprender a utilizar las herramientas de Git y GitHub, hech
 * Git amend
 * Git rebase
 * Git Clean
+* Publicar en GitHub Pages
 
 ### Este proyecto contiene los archivos
 1. index.html
 2. information.txt
 3. notes.txt
+4. Admiro.html
+5. README.md
+6. featuresD.txt
